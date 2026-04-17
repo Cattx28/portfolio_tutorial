@@ -1,0 +1,25 @@
+{
+  "name": "portfolio_tutorial",
+  "version": "1.0.0",
+  "description": "Meu portfólio pessoal que pode ajudar você a criar o seu!",
+  "homepage": "https://github.com/Cattx28/portfolio_tutorial#readme",
+  "bugs": {
+    "url": "https://github.com/Cattx28/portfolio_tutorial/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cattx28/portfolio_tutorial.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.2.4",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  }
+}
